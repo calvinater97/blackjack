@@ -17,5 +17,6 @@ Inside of my C++ file I also used some libraries to help with my coding includin
 
 # Future Work
 
-* Need to add a split card function
+* Need to add a split card function.
 * You are able to hit when get two ones at the start and choose to make them both 11 resulting in a bust.
+* Create functions for when I have repeated code.
