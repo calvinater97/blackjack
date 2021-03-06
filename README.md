@@ -1,8 +1,8 @@
 # Overview
 
-This program is the blackjack card game.  It allows the user to get two cards and decide if they would like to hit or stay.  Once they are finished making a decision then their total when adding the card numbers is put up against the dealer to determine who wins the game.  This program allowed me to learn the syntax of the C++ language and push me to create a working game.
+This program is the blackjack card game.  It allows the user to get two cards and decide if they would like to hit or stay.  Once they are finished making a decision then their total is put up against the dealer to determine who wins the game.  This program allowed me to learn the syntax of the C++ language and push me to create a working game.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/SfTKmRSamQw)
 
 # Development Environment
 
